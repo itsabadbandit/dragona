@@ -1,3 +1,3 @@
 if game.PlaceId == 4866692557 then
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/itsabadbandit/dragona/main/games/aoh'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/itsabadbandit/dragona/main/games/aoh.lua'))()
 end
